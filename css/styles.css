@@ -10,3 +10,8 @@
   width: 50%;
 
 }
+
+.highlight {
+  background-color: yellow;
+  border-style: solid; 
+}
